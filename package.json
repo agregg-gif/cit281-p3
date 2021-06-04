@@ -1,0 +1,14 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "Something which is descriptive",
+  "main": "p3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abby Gregg",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.15.1"
+  }
+}
